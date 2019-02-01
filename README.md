@@ -6,10 +6,10 @@ ________________________________________
  >python pyautogui.lock.py
 ----------------------------------------
 *squeezze or add inside your code
-______________________________________
+<c/>
 if _your condition_:
      lock the pc
----------------------------------------
+<c/>
 Note:
 To make this code work you must need to install python on your computer. 
 After installing python install pyautogui 
