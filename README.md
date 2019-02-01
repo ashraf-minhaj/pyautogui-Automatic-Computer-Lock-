@@ -3,17 +3,19 @@ For some reason pyautogui.hotkey('win', 'l') doesn't work. That's why I wrote a 
 
 *Run the code like this in you command prompt or powershell
 ________________________________________
- >python pyautogui.lock.py
-----------------------------------------
+> >python pyautogui.lock.py
+________________________________________
+
 *squeezze or add inside your code
------------------------------
-if _your condition_: '\n'
-     lock the pc
-----------------------------
+_____________________________
+> >if _your condition_: 
+       lock the pc
+_____________________________
+
 Note:
 To make this code work you must need to install python on your computer. 
 After installing python install pyautogui 
 ___________________________________________________
- >pip install pyautogui
+> >pip install pyautogui
 ---------------------------------------------------
 pyautogui works both for python 2 and 3.
