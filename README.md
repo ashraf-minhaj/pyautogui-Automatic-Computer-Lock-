@@ -1,6 +1,7 @@
 # pyautogui-Automatic-Computer-Lock-
 For some reason pyautogui.hotkey('win', 'l') doesn't work. That's why I wrote a code that will automatically lock the pc if the code is run. Run the code or squeeze those few lines in your existing code then use it. 
 
+full tutorial on https://www.instructables.com/id/Simple-Python-Code-to-Auto-Lock-Your-Computer
 *Run the code like this in you command prompt or powershell
 ________________________________________
 > >python pyautogui.lock.py
