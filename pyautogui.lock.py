@@ -1,8 +1,15 @@
-import pyautogui
-from time import sleep
+"""
+pyautogui automatic pc lock code.
+by Ashraf Minhaj.
+find me- ashraf_minhaj@yahoo.com
+"""
 
-pyautogui.hotkey('win', 'r')
+import pyautogui  #import pyautogui library
+from time import sleep  #import sleep - for the delay
 
-pyautogui.typewrite("cmd\n")
-sleep(0.500)
-pyautogui.typewrite("rundll32.exe user32.dll, LockWorkStation\n")
+pyautogui.hotkey('win', 'r') #windows_key + Run 
+
+pyautogui.typewrite("cmd\n")  #cmd to open command prompt
+sleep(0.500)      #500 milisec delay
+#write the code then press enter('\n') thus pc will auto-lock
+pyautogui.typewrite("rundll32.exe user32.dll, LockWorkStation\n") 
