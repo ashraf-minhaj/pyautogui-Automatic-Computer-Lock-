@@ -3,6 +3,9 @@ For some reason pyautogui.hotkey('win', 'l') doesn't work. That's why I wrote a 
 
 full tutorial on https://www.instructables.com/id/Simple-Python-Code-to-Auto-Lock-Your-Computer
 
+Updated to make a complete app: 
+https://github.com/ashraf-minhaj/ChikonEye_a-third-eye-app-which-protects-your-work-from-peepers.
+
 
 *Run the code like this in you command prompt or powershell
 ________________________________________
